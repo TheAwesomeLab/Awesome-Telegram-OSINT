@@ -21,6 +21,7 @@
 
 * [Intelligence X](https://intelx.io/tools?tab=telegram)
 * [Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
+* [WhiteIntel Data Breaches](https://whiteintel.io)
 * [BUZZ.IM](https://search.buzz.im/)
 * [Lyzem](https://lyzem.com/)
 * [Telegram Chinese Search](http://www.sssoou.com/)
