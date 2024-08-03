@@ -18,7 +18,7 @@
 - [Resources](#-resources)
 
 ## [↑](#contents) Search Engines
-
+* [Code Finder](https://codefinder.dev/)
 * [Intelligence X](https://intelx.io/tools?tab=telegram)
 * [Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
 * [BUZZ.IM](https://search.buzz.im/)
